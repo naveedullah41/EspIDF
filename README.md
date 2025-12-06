@@ -73,7 +73,7 @@ EspIDF/
      ```
 3) Go to the project:
    ```powershell
-   cd "C:\Users\navee\OneDrive\Documents\Personal Projects\esp-idf\examples\EspIDF"
+   cd "UR URL"
    ```
 4) Verify tools and target:
    ```powershell
